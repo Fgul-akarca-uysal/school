@@ -96,7 +96,7 @@ nav a img{
     color: white;
 
 }
-.her-btn{
+.hero-btn{
     text-decoration: none;
     color: white;
     border: 1px solid white;
@@ -108,7 +108,7 @@ nav a img{
     margin-top: 20px;
 
 }
-.her-btn:hover{
+.hero-btn:hover{
     border: 1px solid red;
     background-color: red;
     transition: .3s;
@@ -232,18 +232,18 @@ padding: 0;
 }
 /*ua*/
 .ua{
-    background: linear-gradient rgba(0,0,0,0.7), rgba(0,0,0,0.7), url(images/londen.jpeg);
+    background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(/londen.jpeg);
     padding: 100px 0;
     text-align: center;
     width: 80%;
-   margin: 100px auto;
-   background-position: center;
-   background-size: cover;
-   border-radius: 10px;
+    margin: 100px auto;
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
 }
 
 .ua h1{
-    color: rgb(250, 238, 238);
+    color: white;
     margin-bottom: 40px;
     padding: 0;
 }
